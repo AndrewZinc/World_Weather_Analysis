@@ -18,15 +18,15 @@ A set of 3000 random Latitude and Longitude combinations was constructed to prov
 
 The cities and corresponding weather data was used to generate a world map with markers for all the cities.  Selecting a marker displays an info box with the city name, a hotel, and weather details.
 
-![World Map with city markers](../Vacation_Search/WeatherPy_vacation_map.png)
+![World Map with city markers](Vacation_Search/WeatherPy_vacation_map.png)
 
 
 # Create a Travel Destinations Map
 
 The users selected four city destinations in Japan.  A map of the selected destinations was created with city markers and an info box to provide details.
 
-![Travel Destinations](../Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![Travel Destinations](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 A driving itinerary was constructed using the Google Maps Directions API, using the preferred sequence for travel between the cities.
 
-![Travel Destinations & Driving Itinerary](../Vacation_Itinerary/WeatherPy_travel_map.png)
+![Travel Destinations & Driving Itinerary](Vacation_Itinerary/WeatherPy_travel_map.png)
